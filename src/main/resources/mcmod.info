@@ -1,0 +1,16 @@
+[
+{
+  "modid": "calccrt",
+  "name": "CalcCrT",
+  "description": "Mod that removes recipes from calculator, made for ATM:E",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["BloodWorkXGaming"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
